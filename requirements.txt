@@ -1,0 +1,8 @@
+pocketsphinx-python
+ai2thor
+keyboard
+time
+sounddevice
+soundfile
+sys
+os

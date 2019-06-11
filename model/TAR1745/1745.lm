@@ -1,0 +1,93 @@
+Language model created by QuickLM on Tue Jun 11 15:32:34 EDT 2019
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 17 sentences and 19 words
+
+\data\
+ngram 1=19
+ngram 2=34
+ngram 3=17
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-2.0086 BACK -0.2218
+-2.0086 EIGHT -0.2218
+-2.0086 FIVE -0.2218
+-2.0086 FOUR -0.2218
+-2.0086 GRID -0.2218
+-2.0086 LEFT -0.2218
+-2.0086 MOVE -0.2218
+-2.0086 NINE -0.2218
+-2.0086 OFF -0.2218
+-2.0086 ONE -0.2218
+-2.0086 RIGHT -0.2218
+-2.0086 SEVEN -0.2218
+-2.0086 SIX -0.2218
+-2.0086 SPIN -0.2218
+-2.0086 THREE -0.2218
+-2.0086 TURN -0.2218
+-2.0086 TWO -0.2218
+
+\2-grams:
+-1.5315 <s> BACK 0.0000
+-1.5315 <s> EIGHT 0.0000
+-1.5315 <s> FIVE 0.0000
+-1.5315 <s> FOUR 0.0000
+-1.5315 <s> GRID 0.0000
+-1.5315 <s> LEFT 0.0000
+-1.5315 <s> MOVE 0.0000
+-1.5315 <s> NINE 0.0000
+-1.5315 <s> OFF 0.0000
+-1.5315 <s> ONE 0.0000
+-1.5315 <s> RIGHT 0.0000
+-1.5315 <s> SEVEN 0.0000
+-1.5315 <s> SIX 0.0000
+-1.5315 <s> SPIN 0.0000
+-1.5315 <s> THREE 0.0000
+-1.5315 <s> TURN 0.0000
+-1.5315 <s> TWO 0.0000
+-0.3010 BACK </s> -0.3010
+-0.3010 EIGHT </s> -0.3010
+-0.3010 FIVE </s> -0.3010
+-0.3010 FOUR </s> -0.3010
+-0.3010 GRID </s> -0.3010
+-0.3010 LEFT </s> -0.3010
+-0.3010 MOVE </s> -0.3010
+-0.3010 NINE </s> -0.3010
+-0.3010 OFF </s> -0.3010
+-0.3010 ONE </s> -0.3010
+-0.3010 RIGHT </s> -0.3010
+-0.3010 SEVEN </s> -0.3010
+-0.3010 SIX </s> -0.3010
+-0.3010 SPIN </s> -0.3010
+-0.3010 THREE </s> -0.3010
+-0.3010 TURN </s> -0.3010
+-0.3010 TWO </s> -0.3010
+
+\3-grams:
+-0.3010 <s> BACK </s>
+-0.3010 <s> EIGHT </s>
+-0.3010 <s> FIVE </s>
+-0.3010 <s> FOUR </s>
+-0.3010 <s> GRID </s>
+-0.3010 <s> LEFT </s>
+-0.3010 <s> MOVE </s>
+-0.3010 <s> NINE </s>
+-0.3010 <s> OFF </s>
+-0.3010 <s> ONE </s>
+-0.3010 <s> RIGHT </s>
+-0.3010 <s> SEVEN </s>
+-0.3010 <s> SIX </s>
+-0.3010 <s> SPIN </s>
+-0.3010 <s> THREE </s>
+-0.3010 <s> TURN </s>
+-0.3010 <s> TWO </s>
+
+\end\
